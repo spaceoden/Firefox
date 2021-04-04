@@ -1,6 +1,6 @@
 {
   "version": "1.9.2",
-  "date": 1617363349900,
+  "date": 1617494334500,
   "preferences": {
     "automaticMode": {
       "active": true,
@@ -156,7 +156,7 @@
       },
       "reactivateDelay": 0
     },
-    "browserActionPopup": false,
+    "browserActionPopup": true,
     "pageAction": false,
     "contextMenu": true,
     "keyboardShortcuts": {
@@ -243,7 +243,7 @@
       "containerRemoval": 0,
       "containerMouseClicks": "never",
       "statistics": false,
-      "active": true,
+      "active": false,
       "contextMenuBookmarks": false
     },
     "statistics": false,
@@ -266,7 +266,7 @@
     "ignoreRequestsToPocket": true,
     "scripts": {
       "domain": {},
-      "active": true
+      "active": false
     }
   }
 }
