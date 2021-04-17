@@ -1,3 +1,4 @@
+Personal adjustments to crssi's
 ## Firefox not overly tightened profile
 This is supplement for [ghacks-user.js](https://github.com/ghacksuserjs/ghacks-user.js)
 
