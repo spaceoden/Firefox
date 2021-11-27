@@ -61,6 +61,7 @@ alipay.com
 archive.is/
 chart.googleapis.com/chart
 docs.google.com/
+downforeveryoneorjustme.com/
 duckduckgo.com/
 github.io/
 googleusercontent.com/
